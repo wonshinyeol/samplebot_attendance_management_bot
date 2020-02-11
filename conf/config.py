@@ -36,7 +36,7 @@ SERVER_ID = "cd057b41de414a74892c2e206ee20a34"
 SECRET_KEY_NAME = "private_20200211222456.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://oneautobot.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-35-168-54-239.compute-1.amazonaws.com"
